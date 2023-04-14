@@ -49,8 +49,8 @@ module.exports.datastores = {
     *                                                                          *
     ***************************************************************************/
      adapter: 'sails-mongo',
-     port: '27017',
-     host: '127.0.0.1',
+     port: '6244',
+     host: 'containers-us-west-196.railway.app',
      database: 'grupo12'
     // url: 'mysql://user:password@host:port/database',
 
